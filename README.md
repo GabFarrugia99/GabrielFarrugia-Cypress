@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # GabrielFarrugia-Cypress
 
@@ -62,3 +63,6 @@ npm run cypress:run
 
 ## Conclusion
 This project serves as a basic framework to automate search feature testing using Cypress. Further enhancements can be made with more complex scenarios and integration with CI/CD pipelines for continuous testingand and scalability.
+=======
+# GabrielFarrugia-Cypress
+>>>>>>> 02ff77b18896f21ef92e767ebd4d5848b8f75c4a
